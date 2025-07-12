@@ -32,7 +32,7 @@
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Badhacker98/Chat_Bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://gitlab.com/Badhacker98/Chatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
 
 <h2 align="center">
@@ -43,7 +43,7 @@
 
 `sudo apt-get update && sudo apt-get upgrade -y`
 
-`git clone https://github.com/Badhacker98/Chat_Bot && cd Chat_Bot`
+`git clone https://gitlab.com/Badhacker98/Chatbot && cd Chat_Bot`
 
 `pip3 install -U -r requirements.txt`
 

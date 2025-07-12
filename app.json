@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/Badhacker98/Chat_Bot",
+  "repository": "https://gitlab.com/Badhacker98/Chatbot",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
