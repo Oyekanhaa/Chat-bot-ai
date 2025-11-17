@@ -10,7 +10,7 @@ import threading
 from pyrogram import idle
 from pyrogram.types import BotCommand
 
-from client import shizuchat
+from . import shizuchat
 from database import mongodb
 from scheduler import scheduler
 from server import run_flask
