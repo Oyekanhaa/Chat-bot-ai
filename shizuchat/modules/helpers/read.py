@@ -44,7 +44,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /rankings /overall ᴜsᴇʀ ᴍsɢ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐊 𝐀 𝐍 𝐇 Λ](https://t.me/Oyekanhaa) 💞**
 """
 
 AIBOT_READ = f"""**
@@ -58,7 +58,7 @@ AIBOT_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /blackbox ᴡʀɪᴛᴇ ꜱɪᴍᴘʟᴇ ꜰʟᴀꜱᴋ ᴀᴘᴘ ᴄᴏᴅᴇ
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐊 𝐀 𝐍 𝐇 Λ](https://t.me/oyekanhaa) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -95,7 +95,7 @@ ADMIN_READ2 = f"""**
 ──────────────
 ➻ ᴜsᴇ /unmute - ᴜɴᴍᴜᴛᴇ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐊 𝐀 𝐍 𝐇 Λ](https://t.me/oyekanhaa) 💞**
 """
 
 ADMIN_READ = f"""**
@@ -117,7 +117,7 @@ ADMIN_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /warns - ꜱʜᴏᴡ ᴡᴀʀɴɪɴɢ ᴏꜰ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐊 𝐀 𝐍 𝐇 Λ](https://t.me/oyekanhaa) 💞**
 """
 
 ABOUT_READ = f"""
