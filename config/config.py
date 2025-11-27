@@ -12,15 +12,15 @@ API_HASH = "b35b715fe8dc0a58e8048988286fc5b6"
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 DB_NAME = "shizuDB"
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = int(getenv("OWNER_ID", "7875273604"))
-BOT_ID = int(getenv("BOT_ID", "8468917745"))
-SUPPORT_GRP = "saniyaXmusic"
-UPDATE_CHNL = "saniyaXmusic"
-OWNER_USERNAME = "saniya_queen_ff"
+OWNER_ID = int(getenv("OWNER_ID", "7682307978"))
+BOT_ID = int(getenv("BOT_ID", "8325048549"))
+SUPPORT_GRP = "kanhasworld"
+UPDATE_CHNL = "aboutkanha"
+OWNER_USERNAME = "Oyekanhaa"
 TIME_ZONE = "Asia/Kolkata"
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1003191450575"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1003370616566"))
 # --------------------------------------------------------------
-SUDOERS = list(map(int, getenv("SUDOERS", "7875273604").split()))
+SUDOERS = list(map(int, getenv("SUDOERS", "7682307978").split()))
 # --------------------------------------------------------------
 
 ### DONT TOUCH or EDIT codes after this line
