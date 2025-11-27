@@ -24,11 +24,8 @@ from shizuchat.modules.helpers import (
 )
 
 STICKER = [
-    "CAACAgUAAx0CepnpNQABAQ0ZZwi4keVWGDS7Zc4Ugl07nazStioAAoYKAAIFp0FW4tWKLEhqx54eBA",
-    "CAACAgUAAx0CepnpNQABAQ0bZwi4ty5H4bQFRiADbIDRjvmqrvwAAs8KAAISAAFwVwABdUaWHySE3B4E",
-    "CAACAgUAAx0CepnpNQABAQ0aZwi4tLgnRHxBeCGoKYkHaOtihKgAAj4MAAIfJXFXhnQ9Zw3NF_AeBA",
-    
-  "CAACAgUAAx0CepnpNQABAQ0cZwi4vvVDhrmnrLZJjKZXwZHm6J8AAogMAAKn83BXvz4RP6rTTEYeBA",
+    "CAACAgUAAxkBAAEPa7tpJZTH61Xb1LEiNclTpeabmNum9AACAxMAAu37gVZi9p6YrDXKhR4E",
+    "CAACAgUAAxkBAAEPa7ppJZSvMSJ5vA5iS5SAH_9lBBDncgAC2BIAAuovEVbRiOyGcHta_h4E",
 ]
 
 
@@ -40,11 +37,11 @@ EMOJIOS = [
     "💗",
 ]
 
-BOT = "https://files.catbox.moe/6px3gg.jpg"
+BOT = "https://files.catbox.moe/wfw5v1.jpg"
 IMG = [
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
+    "https://files.catbox.moe/wfw5v1.jpg",
+    "https://files.catbox.moe/wfw5v1.jpg",
+    "https://files.catbox.moe/wfw5v1.jpg",
 ]
 
 
@@ -210,7 +207,7 @@ async def ping(_, message: Message):
 
     ms = (datetime.now() - start).microseconds / 1000
     await loda.edit_text(
-        text=f"ʜᴇᴛ ʙᴀʙʏ!!\n{shizuchat.name} ᴄʜᴀᴛʙᴏᴛ ιѕ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴀʀᴋɪɴɢ ғɪɴᴇ ᴡɪᴛʜ ᴀ ᴘɪɴɢ ᴏғ\n➥ `{ms}` ms\n\n<b>|| ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ [ʙᴀᴅ ᴍᴜɴᴅᴀ](https://t.me/{OWNER_USERNAME}) ||</b>",
+        text=f"ʜᴇᴛ ʙᴀʙʏ!!\n{shizuchat.name} ᴄʜᴀᴛʙᴏᴛ ιѕ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴀʀᴋɪɴɢ ғɪɴᴇ ᴡɪᴛʜ ᴀ ᴘɪɴɢ ᴏғ\n➥ `{ms}` ms\n\n<b>|| ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ [𝐊 𝐀 𝐍 𝐇 Λ](https://t.me/{OWNER_USERNAME}) ||</b>",
         reply_markup=InlineKeyboardMarkup(PNG_BTN),
     )
     if message.chat.type == ChatType.PRIVATE:
